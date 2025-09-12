@@ -1,0 +1,8 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+Week 1
+This week I used AI while working on the exercises provided in the weekly journals. Though most of the concepts I was familiar with, this was my first time working with .strip() and .rfind(). I used ChatGPT to help me understand the functions of those string methods. I also used AI to help with debugging, mainly for syntax structuring. I haven't coded in python since taking INST126 and so I forgot some of the syntax structure of ceratin expressions such as an f string. I think it was helpful as being an assistance to refreshing my mind about the syntax structure of Python and also explaining how certain function work that I wasn't familiar with.
+
+This is a link of my chats: https://chatgpt.com/c/68c4a3c2-e120-8331-ab15-f97ccab78ba5

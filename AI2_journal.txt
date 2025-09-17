@@ -1,0 +1,13 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+Week2:
+This week I used AI for the Week2 excercises. I mainly used it to claify syntax when working with 
+for and while loops. I forgot in which cases it would be best to use either a for or while loop and so
+I asked ChatGPT for clarification. I also used AI to help with understanding the syntax structures of 
+conditionals. For example, I had a habit of writing if statements with parentheses, but I forgot that 
+in Python you don't need to put the conditional in parentheses. I also struggled a bit with question 
+#26 and asked ChatGPT for clarification if this question implied that I could create shelf a and b on my own. 
+
+Here is a link to my chats: https://chatgpt.com/c/68cae77c-2530-8332-84c0-fb5385f90445

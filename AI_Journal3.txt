@@ -1,0 +1,192 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+Week 3:
+This week I used Ai to help with the Week 3 python exercises. Working with functions has been something I struggled
+with so I used chatgpt to help understand the syntax of a basic function. I also used it to help describe how 
+list work. I also tried another AI tool called Gemini, to explain the same topics but I liked using chatgpt
+better because it was more straightforward and gave a shorter but indepth description.
+
+Here is a transcript of my chats:
+
+You said:
+explain the basic syntax of a defining a function in python
+ChatGPT said:
+
+Defining a function in Python is simple and follows a specific syntax. Here's a breakdown of the basic syntax:
+
+🔹 Basic Syntax
+def function_name(parameters):
+    """Optional docstring"""
+    # Function body
+    # Code to execute
+    return result  # Optional
+
+🔹 Explanation of Each Part
+
+def – This keyword is used to define a function.
+
+function_name – The name you give your function (follows naming rules like variables: lowercase, underscores, no spaces).
+
+parameters – Optional inputs passed to the function (can be zero or more, separated by commas).
+
+: – A colon indicates the start of the function body.
+
+"""docstring""" – (Optional) Describes what the function does.
+
+return – (Optional) Sends a result back to the caller.
+
+🔹 Example 1: A Function Without Parameters
+def greet():
+    print("Hello, world!")
+
+
+Call it like this:
+
+greet()
+
+🔹 Example 2: A Function With Parameters and Return Value
+def add(a, b):
+    return a + b
+
+
+Call it like this:
+
+result = add(3, 5)
+print(result)  # Output: 8
+
+
+Let me know if you want examples with default values, keyword arguments, or variable-length arguments (*args, **kwargs).
+
+You said:
+how do i call a function
+ChatGPT said:
+
+Calling a function in Python is straightforward.
+
+🔹 Basic Syntax to Call a Function
+function_name(arguments)
+
+
+function_name: The name of the function you defined earlier.
+
+arguments: The values you pass into the function (if it takes parameters).
+
+🔹 Examples
+✅ 1. Calling a Function Without Parameters
+def greet():
+    print("Hello!")
+
+greet()  # Call the function
+
+
+Output:
+
+Hello!
+
+✅ 2. Calling a Function With Parameters
+def greet(name):
+    print("Hello, " + name + "!")
+
+greet("Alice")
+
+
+Output:
+
+Hello, Alice!
+
+✅ 3. Calling a Function That Returns a Value
+def square(x):
+    return x * x
+
+result = square(4)
+print(result)
+
+
+Output:
+
+16
+
+🔹 Key Notes
+
+If the function returns a value, you can store it in a variable or use it directly.
+
+If it only prints something, calling it will just execute its code (no return value).
+
+Want to try writing and calling a function yourself? I can help check or explain it.
+
+You said:
+explain how list work in python
+ChatGPT said:
+🧾 What is a List in Python?
+
+A list in Python is an ordered, mutable (changeable) collection of items. You can store any type of data in a list—numbers, strings, even other lists.
+
+🔹 Basic Syntax
+my_list = [item1, item2, item3, ...]
+
+🔹 Examples
+fruits = ["apple", "banana", "cherry"]
+numbers = [1, 2, 3, 4, 5]
+mixed = [1, "hello", True, 3.14]
+
+🔹 Key Features of Lists
+Feature	Description
+Ordered	Items maintain their insertion order
+Mutable	You can change items after creation
+Indexable	Access items using index (starting at 0)
+Iterable	You can loop through them with for loops
+🔹 Common Operations
+✅ Accessing Elements (Indexing)
+fruits = ["apple", "banana", "cherry"]
+print(fruits[0])  # Output: apple
+
+✅ Slicing
+print(fruits[1:3])  # Output: ['banana', 'cherry']
+
+✅ Changing an Element
+fruits[1] = "orange"
+print(fruits)  # Output: ['apple', 'orange', 'cherry']
+
+✅ Adding Items
+fruits.append("kiwi")       # Adds to the end
+fruits.insert(1, "mango")   # Adds at index 1
+
+✅ Removing Items
+fruits.remove("banana")  # Removes by value
+fruits.pop(2)            # Removes by index
+
+✅ Looping Through a List
+for fruit in fruits:
+    print(fruit)
+
+✅ List Length
+len(fruits)
+
+🔹 Example
+numbers = [1, 2, 3]
+numbers.append(4)
+print(numbers[2])      # Output: 3
+print(len(numbers))    # Output: 4
+
+
+Let me know if you want help with 2D lists, list comprehensions, or working with lists of dictionaries.
+
+You said:
+provide a link to this chat
+ChatGPT said:
+
+Right now, there's no direct way to generate a public link to this chat from within this interface.
+
+However, you can copy and paste the conversation into a document or note, or take a screenshot if you want to save or share it.
+
+If you're using a platform or app (like ChatGPT on desktop or mobile), you might also:
+
+Click the three dots next to the conversation (if available)
+
+Choose "Share" or "Export" if the option is offered
+
+Or use "Copy Link" if your version supports sharing chats
+
+Let me know what platform you're using (web, iOS, Android, etc.), and I can give more specific instructions.

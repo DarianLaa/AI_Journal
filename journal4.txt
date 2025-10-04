@@ -1,0 +1,11 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+Week4:
+This week I used AI to assist with the weekly exercises. I was 
+strugglinh with question 12 and asked chatgpt what was wrong with my
+code. Chat was not helpful and gave me code that contributed to more
+issues. My error was that I forgot a semi colon after the else statement.
+I lost my chats and am not able to provide a link, but it 
+made the else statement more complicated then needed.

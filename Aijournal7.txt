@@ -1,0 +1,11 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+This week I used AI to help me understand the syntax and purpose of try except. I have
+not worked with try except before and so Chat helped me understand the syntax and how help-
+ful they are in programming. I had an overall positive experience and it helped me 
+navigate through the week 7 exercises.
+
+Here is a link with my chats: 
+https://chatgpt.com/c/68ffcff5-8c00-832b-a42b-e917258a7732

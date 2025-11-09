@@ -1,0 +1,11 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+This week I used Ai to help understand the concept 
+of polymorphism. This is my first time hearing about the term
+and so I wanted to ask chat how would I use this when working 
+with library management systems, as this relates to my group project.
+
+Here is a link of my chats:
+https://chatgpt.com/c/690ff03d-d610-8327-9100-72d5f859b642

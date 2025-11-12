@@ -1,0 +1,10 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+This week I used Ai to help with the weekly exercises. This was my first time learning
+about abstract classes and I wanted to understand their purpose and how they are used 
+in projects. I asked ChatGPT to explain the purpose of abstract classes and how they are 
+useful in projects.
+
+Here is a link of my chats: https://chatgpt.com/c/6914c013-9b74-832a-af1f-ffa11a63ecdc

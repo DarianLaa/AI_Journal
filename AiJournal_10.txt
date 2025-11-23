@@ -1,0 +1,10 @@
+AI Usage Journal
+Darian La
+Section 0303
+
+This week I used Ai to help with project 3 requirments. One of the requirements was to 
+have an achritecture document and i had never done one before. I used chatGPT to ask
+what the purpose of an architecture doc is and how is it different from a read me. 
+
+Here is a link to my chats:
+https://chatgpt.com/c/69225869-deb4-8330-a6b9-f054b81f6a02
